@@ -1,7 +1,5 @@
 ### Hello there (¬‿¬)
 
-
-Here are some ideas to get you started:
 - 🔭atualmente aluno do senac (ti)
 - 👷‍♂️fazendo protótipos de sites
 <div align="center">
